@@ -18,7 +18,7 @@ Coroutines is our recommended solution for asynchronous programming on Android. 
 3. **Built-in cancellation support**: Cancellation is propagated automatically through the running coroutine hierarchy.
 4. **Jetpack integration**: Many Jetpack libraries include extensions that provide full coroutines support. Some libraries also provide their own coroutine scope that you can use for structured concurrency.
 
-## Proje Contents 📜
+## Project Contents 📜
 
 - [CoroutineScope](https://github.com/halilozel1903/Coroutines101/blob/master/app/src/main/java/com/halil/ozel/coroutines101/CoroutineScopeClass.kt)
 - [Dispatchers Coroutines](https://github.com/halilozel1903/Coroutines101/blob/master/app/src/main/java/com/halil/ozel/coroutines101/DispatchersCoroutines.kt)
