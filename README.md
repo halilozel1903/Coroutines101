@@ -26,6 +26,7 @@ Coroutines is our recommended solution for asynchronous programming on Android. 
 - [Nested Coroutines](https://github.com/halilozel1903/Coroutines101/blob/master/app/src/main/java/com/halil/ozel/coroutines101/NestedCoroutines.kt)
 - [RunBlocking](https://github.com/halilozel1903/Coroutines101/blob/master/app/src/main/java/com/halil/ozel/coroutines101/RunBlockingClass.kt)
 - [Suspend Coroutines](https://github.com/halilozel1903/Coroutines101/blob/master/app/src/main/java/com/halil/ozel/coroutines101/SuspendCoroutines.kt)
+- [Coroutines Async](https://github.com/halilozel1903/Coroutines101/blob/master/app/src/main/java/com/halil/ozel/coroutines101/CoroutinesAsync.kt)
 
 
 ## License ℹ️
