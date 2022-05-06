@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
 
         val dispatchersCoroutines = DispatchersCoroutines()
         dispatchersCoroutines.main()
-
     }
 }

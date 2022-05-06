@@ -6,7 +6,6 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
 fun main() {
-
     runBlocking {
         launch {
             delay(4000)
@@ -20,5 +19,4 @@ fun main() {
             }
         }
     }
-
 }

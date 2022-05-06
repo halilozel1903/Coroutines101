@@ -6,9 +6,7 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
 class CoroutineScopeClass {
-
     fun main() {
-
         println("Coroutine Scope Start")
         CoroutineScope(Dispatchers.Default).launch {
             delay(4000)
@@ -16,6 +14,5 @@ class CoroutineScopeClass {
         }
         println("Coroutine Scope End")
     }
-
 }
 
