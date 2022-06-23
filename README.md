@@ -9,7 +9,7 @@ On Android, coroutines help to manage long-running tasks that might otherwise bl
 
 ## Features 👀
 
-![Coroutines-101](https://www.chaddha.me/content/images/2020/12/Kotlin-Coroutises-Fundamentals_o-2.jpg)
+![Coroutines-101](https://www.techyourchance.com/wp-content/uploads/2020/11/coroutines-cheat-sheet.jpg)
 
 Coroutines is our recommended solution for asynchronous programming on Android. Noteworthy features include the following:
 
