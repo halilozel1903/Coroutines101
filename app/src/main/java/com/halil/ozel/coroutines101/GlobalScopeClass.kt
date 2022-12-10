@@ -9,7 +9,6 @@ import kotlinx.coroutines.launch
 // they have limited use-case and shall be used with care in general code
 @DelicateCoroutinesApi
 fun main() {
-
     /**
     GlobalScope: The difference of GlobalScope from runBlocking is that it acts independently.
     The end of the thread it is in does not prevent it from running.
